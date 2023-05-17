@@ -1,0 +1,2 @@
+D:\Загрузки\Driver\passThrough\x64\Debug\passThrough.sys
+C:\Users\vitya\Downloads\passThrough\x64\Debug\passThrough.sys

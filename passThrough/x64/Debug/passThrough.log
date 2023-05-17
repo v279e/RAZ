@@ -1,0 +1,4 @@
+﻿  passThrough.c
+C:\dir\passThrough\passThrough.c(21,10): fatal  error C1083: Не удается открыть файл включение: fltKernel.h: No such file or directory,
+  aes.c
+  Создание кода...
